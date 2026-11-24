@@ -4,7 +4,7 @@ The public pages for the **Nutriva** iOS/Android app: the landing page a shared
 weekly recap points at, plus the Privacy Policy, Terms of Service and Support
 pages that App Store Guideline 3.1.2 and Google Play both require to resolve.
 
-Live at **https://ilkercelebi.github.io/nutrition-web/**
+Live at **https://ai-dev1234.github.io/nutrition-web/**
 
 | Path | File | Used by |
 |---|---|---|
